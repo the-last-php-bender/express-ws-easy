@@ -1,0 +1,32 @@
+{
+  "name": "express-ws-easy",
+  "version": "1.0.9",
+  "description": "Easy WebSocket setup for Express.js with user_id handling",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "express",
+    "websocket",
+    "ws"
+  ],
+  "author": "Nwinyinya David (the-last-php-bender)",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-last-php-bender/express-ws-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-last-php-bender/express-ws-easy/issues"
+  },
+  "homepage": "https://github.com/the-last-php-bender/express-ws-easy#readme"
+}
